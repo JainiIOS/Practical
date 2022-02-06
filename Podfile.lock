@@ -1,0 +1,32 @@
+PODS:
+  - Auth0 (1.38.1):
+    - JWTDecode (~> 2.0)
+    - SimpleKeychain
+  - IQKeyboardManagerSwift (6.5.9)
+  - JWTDecode (2.6.3)
+  - MBProgressHUD (1.2.0)
+  - SimpleKeychain (0.12.5)
+
+DEPENDENCIES:
+  - Auth0 (~> 1.38)
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Auth0
+    - IQKeyboardManagerSwift
+    - JWTDecode
+    - MBProgressHUD
+    - SimpleKeychain
+
+SPEC CHECKSUMS:
+  Auth0: a8f1f275738bf3d3cf4c752cacc103445a133556
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  JWTDecode: 33e5e26e5ddbd21b2065820894c08fef0cad9509
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SimpleKeychain: 8193a9e40967eccac933c1fde82de46c07a5ae26
+
+PODFILE CHECKSUM: 31bc1db02cccf9d961bc1ad73ca0348b91ce39f4
+
+COCOAPODS: 1.11.2
